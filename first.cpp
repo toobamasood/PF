@@ -2,12 +2,13 @@
 using namespace std;
 int main()
 {
-    int a,b,sum;
-    cout<<"Enter value of a=";
-    cin>>a;
-    cout<<"Enter value of b=";
-    cin>>b;
-    sum=a+b;
-    cout<<"sum="<<sum;
-    return 0;
+int age;
+char name,addrss;
+cout<<"Enter your name="<<endl;
+cin>> name;
+cout<<"Enter age="<<endl;
+cin>>address; 
+cout<<"Enter your name="<<endl;
+cin>> name;
+cout<<"Enter age="<<endl; 
 }
